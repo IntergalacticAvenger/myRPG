@@ -19,7 +19,7 @@ Ojective:
   - Each level has a different number of items you need to collect. 
 
 Some Screenshots of the game in action:
-https://user-images.githubusercontent.com/53759586/106840062-66f91380-666d-11eb-9d98-36bbff0d107f.png
+![Screenshot](https://user-images.githubusercontent.com/53759586/106840062-66f91380-666d-11eb-9d98-36bbff0d107f.png)
 
 https://user-images.githubusercontent.com/53759586/106840065-6791aa00-666d-11eb-8d9b-a9031f83732a.png
 
