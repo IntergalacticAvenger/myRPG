@@ -21,13 +21,13 @@ Line 2 = The level you will start on upon loading the game
   N 20
 ```
 This is demo_level1.txt: (format is the same for all level files)
-Line 1 = Index of the first map you will start in
-Line 2 = Position of the player upon loading game (will always be in the center of the user playing the game's map)
-Line 3 = The direction the player will be facing upon loading game
-Line 4 = Map Segment 0's size (can have more than one Map Segment)
-Line 5 = Building's location (can have more than one Building per Map Segment)
-Line 6 = Item's location (can have more than one Item per Map Segment)
-Line 7 = Number of moves till game is over
+ - Line 1 = Index of the first map you will start in
+ - Line 2 = Position of the player upon loading game (will always be in the center of the user playing the game's map)
+ - Line 3 = The direction the player will be facing upon loading game
+ - Line 4 = Map Segment 0's size (can have more than one Map Segment)
+ - Line 5 = Building's location (can have more than one Building per Map Segment)
+ - Line 6 = Item's location (can have more than one Item per Map Segment)
+ - Line 7 = Number of moves till game is over
 
 Movement:
   - Can only move forward with 'W' 
