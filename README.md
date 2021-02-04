@@ -21,9 +21,9 @@ Ojective:
 Some Screenshots of the game in action:
 ![Screenshot](https://user-images.githubusercontent.com/53759586/106840062-66f91380-666d-11eb-9d98-36bbff0d107f.png)
 
-https://user-images.githubusercontent.com/53759586/106840065-6791aa00-666d-11eb-8d9b-a9031f83732a.png
+![Screenshot](https://user-images.githubusercontent.com/53759586/106840065-6791aa00-666d-11eb-8d9b-a9031f83732a.png)
 
-https://user-images.githubusercontent.com/53759586/106840066-6791aa00-666d-11eb-96f3-b4cd6de6c516.png
+![Screenshot](https://user-images.githubusercontent.com/53759586/106840066-6791aa00-666d-11eb-96f3-b4cd6de6c516.png)
 
 Now let's say you collect all the items, then you will get this!
-https://user-images.githubusercontent.com/53759586/106840068-6791aa00-666d-11eb-85e1-5fdf61e746e9.png
+![Screenshot](https://user-images.githubusercontent.com/53759586/106840068-6791aa00-666d-11eb-85e1-5fdf61e746e9.png)
