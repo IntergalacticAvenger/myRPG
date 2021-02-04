@@ -1,6 +1,10 @@
 # myRPG
 
 RPG Game creating using a N by N matrix. Imported from an existing gameFile.
+
+There are 2 modes, a 'WASD' mode to play the game, and an NCurses mode if you want to play using arrow keys
+
+
 gameFile follows the structure: (absolute/relative the file will load)
 ```
   20 25
